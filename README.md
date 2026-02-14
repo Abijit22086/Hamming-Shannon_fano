@@ -52,8 +52,9 @@ print(f"Variance is : {var}")
 ```
 
 ### CALCULATION
-<img width="973" height="1381" alt="image" src="https://github.com/user-attachments/assets/afc2d9e9-9533-4d84-a58b-5b527d765a6b" />
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/de7d6f22-c350-4096-a8c7-3c63c0cd1bb9" />
+![WhatsApp Image 2026-02-14 at 14 00 27](https://github.com/user-attachments/assets/eabe7024-5943-4c92-885a-dc63cc19d1cc)
+![WhatsApp Image 2026-02-14 at 14 00 28](https://github.com/user-attachments/assets/a167dedd-d36c-4bf0-814b-53aca059a4d8)
+
 
 
 ### OUTPUT
